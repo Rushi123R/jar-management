@@ -1,0 +1,60 @@
+{
+  "customers": [],
+  "orders": [
+    {
+      "jars": "10",
+      "date": "2023-09-28",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "jars": "2",
+      "date": "2023-09-21",
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "jars": "3",
+      "date": "2023-09-21",
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "date": "2023-09-14",
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "jars": "5",
+      "date": "2023-09-29",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "jars": "23",
+      "date": "2023-09-29",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "jars": "3",
+      "date": "2023-03-16",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "jars": "1234",
+      "date": "2023-09-13",
+      "userId": 3,
+      "id": 11
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@123.com",
+      "password": 123
+    }
+  ]
+}
